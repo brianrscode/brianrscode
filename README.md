@@ -22,4 +22,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrscode&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrscode&layout=compact)
