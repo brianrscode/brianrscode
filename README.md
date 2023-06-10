@@ -21,5 +21,9 @@
 </div>
 
 ---
+<h2>Insignias</h2>
+![badge Image](python-for-data-science.png)
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrscode&layout=compact)
