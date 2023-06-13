@@ -16,9 +16,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp&nbsp
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp&nbsp
     <br><br>
-    <h2>Tecnologías que actualmente estoy aprendiendo:</h2>
+<!--     <h2>Tecnologías que actualmente estoy aprendiendo:</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="57" height="57"/>&nbsp&nbsp
-</div>
+</div> -->
 
 ---
 
