@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="250">
 </div>
----
 <div align="left">
     <h2>Tecnologías:</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp&nbsp
