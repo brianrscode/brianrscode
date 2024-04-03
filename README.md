@@ -15,3 +15,9 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrscode&layout=compact&langs_count=8&theme=dracula)
+
+![Cybersnakes Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianrscode&theme=react-dark)
+
+
+<div align=center><img src=https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png></div>
+
