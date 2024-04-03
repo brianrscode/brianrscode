@@ -1,3 +1,9 @@
+<!--- <p align="right"> <img src="https://komarev.com/ghpvc/?username=brianrscode&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Brianrscode" /></p> --->
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Hola,+soy+brianrscode"/>
+</h3>
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="250">
 </div>
@@ -17,7 +23,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianrscode&layout=compact&langs_count=8&theme=dracula)
 
 ![Cybersnakes Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianrscode&theme=react-dark)
-
 
 <div align=center><img src=https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png></div>
 
