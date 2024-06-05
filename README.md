@@ -39,7 +39,7 @@
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/main/assets/bonefire.gif" />
 
 <!-- Grafico de contribuciones -->
-![Cybersnakes Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianrscode&theme=react-dark)
-<!--  -->
+<!-- ![Cybersnakes Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianrscode&theme=react-dark) -->
+
 <div align=center><img src=https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png></div>
 
