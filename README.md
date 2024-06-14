@@ -26,9 +26,9 @@
 ## 🛠  Lenguajes-Herramientas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,bash,cs,php,js,html,css" /><br>
-    <!-- <img src="https://skillicons.dev/icons?i=fastapi,flask,django" /><br> -->
-    <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,visualstudio,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=python,java,bash,cs,php,js,html,css,mysql" /><br>
+    <!-- <img src="https://skillicons.dev/icons?i=opencv,fastapi,flask,django" /><br> -->
+    <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,visualstudio,androidstudio,arduino" />
   </a>
 </p>
 
