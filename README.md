@@ -28,19 +28,19 @@
 - Linux. 🐧
 - Seguridad informática. 🔒
 
-<!-- ## 🛠  Lenguajes-Herramientas -->
+<!-- ## 🛠  Lenguajes-Librerías-Herramientas -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes-Herramientas</b>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,bash,cs,php,js,html,css,mysql" /><br>
-    <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,numpy,pandas,pytorch,tensorflow,scikitlearn,django,fastapi&titles=true" /><br> -->
-    <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,visualstudio,androidstudio,arduino" />
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,java,cs,php,js,html,css,mysql&titles=true" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,numpy&titles=true" /><br> <!-- ,pandas,pytorch,tensorflow,scikitlearn,django,fastapi-->
+    <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,visualstudio,arduino" /> <!-- androidstudio, -->
   </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
 <!-- top de lenguajes -->
-<img width="35%" align="left" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianrscode&layout=compact&langs_count=8&theme=tokyonight" />
+<img width="35%" align="left" alt="Github" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianrscode&layout=compact&langs_count=8&theme=tokyonight" />
 <!-- gif de la espada-->
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/main/assets/bonefire.gif" />
 <!-- Grafico de contribuciones -->
