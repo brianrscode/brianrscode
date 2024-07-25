@@ -1,16 +1,20 @@
-<!--- <p align="right"> <img src="https://komarev.com/ghpvc/?username=brianrscode&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Brianrscode" /></p> --->
 <!-- -->
+<!-- Profile views -->
+<!--- <p align="right"> <img src="https://komarev.com/ghpvc/?username=brianrscode&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Brianrscode" /></p> --->
+
 <!-- Presentación -->
 <h1 align="center"><b>Hola, soy brianrscode </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!-- Texto cambiante -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+en+proceso..&hearts;++;Me+gusta+aprender+cosas+nuevas...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+en+proceso...&hearts;++;Me+gusta+aprender+cosas+nuevas...<3"></a>
 </p>
 
 <!-- Presentación vieja con el gif -->
 <!-- <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Hola,+soy+brianrscode"/>
-</h3> -->
-<!--  <div id="header" align="center">
+</h3>
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="250">
 </div> -->
 
@@ -28,13 +32,13 @@
 - Linux. 🐧
 - Seguridad informática. 🔒
 
-<!-- ## 🛠  Lenguajes-Librerías-Herramientas -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes-Herramientas</b>
+<!-- ## 🛠  Lenguajes-Herramientas -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes-Librerías-Herramientas</b>
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,java,cs,php,js,html,css,mysql&titles=true" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,cpp,lua&titles=true" /><br> <!-- java,cs,php,js,html,css,mysql -->
     <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,numpy&titles=true" /><br> <!-- ,pandas,pytorch,tensorflow,scikitlearn,django,fastapi-->
-    <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,visualstudio,arduino" /> <!-- androidstudio, -->
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arduino" /> <!-- androidstudio,visualstudio, -->
   </a>
 </p>
 
@@ -50,8 +54,8 @@
 <div align=center><img src=https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png></div>
 
 <!-- Contacto -->
-<!-- <p>Estoy siempre en busca de nuevas oportunidades para aprender y colaborar en proyectos interesantes. ¡No dudes en contactarme!😉<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"></p>
-<br>
+<p>Estoy siempre en busca de nuevas oportunidades para aprender y colaborar en proyectos interesantes. ¡No dudes en contactarme!😉<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"></p>
+<!-- <br>
 <div align='left'>
   <a href="mailto:CORREO@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" t=mail style="margin-bottom: 5px;" />
