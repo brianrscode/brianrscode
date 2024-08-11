@@ -1,7 +1,4 @@
 <!-- -->
-<!-- ----------------------------------- Profile views ----------------------------------- -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=brianrscode&label=Profile%20views&color=000000&size=24&style=flat" alt="Brianrscode" /></p>
-
 <!-- ----------------------------------- Presentación ----------------------------------- -->
 <h1 align="center"><b>Hola, soy brianrscode </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
@@ -30,9 +27,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Lenguajes-Librerías-Herramientas</b>
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,cpp,lua&titles=true" /><br> <!-- java,cs,php,js,html,css,mysql -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,numpy&titles=true" /><br> <!-- ,pandas,pytorch,tensorflow,scikitlearn,django,fastapi-->
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arduino" /> <!-- androidstudio,visualstudio, -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,cpp,lua&titles=true" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,numpy&titles=true" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arduino" />
   </a>
 </p>
 
@@ -50,10 +47,16 @@
 
 <!-- ----------------------------------- Contacto ----------------------------------- -->
 <p>Estoy siempre en busca de nuevas oportunidades para aprender y colaborar en proyectos interesantes. ¡No dudes en contactarme!😉
-<!-- <br>
-<div align='left'>
+<br>
+<!-- Opción 1 de correo -->
+<!-- <a href="mailto:CORREOXD@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-CORREOXD@gmail.com-black?style=flat-square&logo=gmail">
+</a> -->
+
+  <!-- Opción 2 de correo -->
+<!-- <div align='left'>
   <a href="mailto:CORREO@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" t=mail style="margin-bottom: 5px;" />
+    <img src="https://skillicons.dev/icons?i=gmail" t=mail" />
   </a>
 </div> -->
 
