@@ -9,7 +9,7 @@
 
 <!-- ----------------------------------- Sobre mí ----------------------------------- -->
 ## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTEyNGJ1OHlsMWljazZ0YjRubHpicTBkMmc1MjF6M2FvOWNwbmthNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width=35px></picture> **Sobre mí. 😀**
-<p>Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología y el desarrollo de software. Actualmente, estoy enfocado en mejorar mis habilidades en programación y visión por computadora. A pesar de no tener experiencia laboral formal, he trabajado en varios proyectos académicos y personales que demuestran mi capacidad para aprender y adaptarme rápidamente a nuevas tecnologías.</p>
+<p>Estudiante de Ingeiería en Sistemas con una pasión por la tecnología y el desarrollo de software. Actualmente me concentro en mejorar mis habilidades en programación. Aunque no tengo experiencia laboral formal, he participado en diversos proyectos académicos y personales, los cuales demuestran mi capacidad de aprender y adaptarme rápidamente a nuevas tecnologías.</p>
 <br>
 
 <!-- ----------------------------------- Áreas de interés ----------------------------------- -->
