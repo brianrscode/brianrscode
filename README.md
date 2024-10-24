@@ -9,7 +9,7 @@
 
 <!-- ----------------------------------- Sobre mí ----------------------------------- -->
 ## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTEyNGJ1OHlsMWljazZ0YjRubHpicTBkMmc1MjF6M2FvOWNwbmthNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width=35px></picture> **Sobre mí. 😀**
-<p>Estudiante de Ingeiería en Sistemas con una pasión por la tecnología y el desarrollo de software. Actualmente me concentro en mejorar mis habilidades en programación. Aunque no tengo experiencia laboral formal, he participado en diversos proyectos académicos y personales, los cuales demuestran mi capacidad de aprender y adaptarme rápidamente a nuevas tecnologías.</p>
+<p>Estudiante de Ingeiería en Sistemas con una gusto por la tecnología y el desarrollo de software. Actualmente me concentro en mejorar mis habilidades en programación. Aunque no tengo experiencia laboral formal, he participado en diversos proyectos académicos y personales, los cuales demuestran mi capacidad de aprender y adaptarme rápidamente a nuevas tecnologías.</p>
 <br>
 
 <!-- ----------------------------------- Áreas de interés ----------------------------------- -->
@@ -20,8 +20,8 @@
 - Visión por computadora. 💻👀📷
 - Inteligencia artificial. 🤖
 - Desarrollo web. 💻
-- Linux. 🐧
-- Seguridad informática. 🔒
+<!-- - Linux. 🐧 -->
+<!-- - Seguridad informática. 🔒 -->
 
 <!-- ## 🛠 -------------------- Lenguajes-Herramientas -------------------- -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Lenguajes-Librerías-Herramientas</b>
