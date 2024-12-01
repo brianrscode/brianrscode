@@ -36,7 +36,7 @@
 <!-- ----------------------------------- Estadísticas de GitHub ----------------------------------- -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"><b> Estadísticas de GitHub </b>
 <!-- top de lenguajes -->
-<img width="35%" align="left" alt="Github" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianrscode&layout=compact&langs_count=8&text_color=02D9F7FF&title_color=02D9F7FF&bg_color=0d1117" />
+<img width="35%" align="left" alt="Github" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianrscode&layout=compact&langs_count=6&text_color=02D9F7FF&title_color=02D9F7FF&bg_color=0d1117" />
 <!-- gif de la espada-->
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/main/assets/bonefire.gif" />
 <!-- Grafico de contribuciones -->
