@@ -4,7 +4,7 @@
 
 <!-- ----------------------------------- Texto cambiante ----------------------------------- -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fanático+de+la+tecnología❤;++;Siempre+listo+para+aprender👀;++;Explorando+nuevas+tecnologías🤖;++;Apasionado+por+la+programación🐍"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fanático+de+la+tecnología+❤;++;Siempre+listo+para+aprender👀;++;Explorando+nuevas+tecnologías🤖;++;Apasionado+por+la+programación🐍"></a>
   <!-- &hearts -->
 </p>
 
@@ -24,7 +24,7 @@
 <!-- - Seguridad informática. 🔒 -->
 
 <!-- ## 🛠 -------------------- Lenguajes-Herramientas -------------------- -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Lenguajes-Librerías-Herramientas</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Lenguajes, librerías y Herramientas</b>
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,cpp,lua&titles=true" /><br>
@@ -38,9 +38,23 @@
 <!-- top de lenguajes -->
 <img width="35%" align="left" alt="Github" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianrscode&layout=compact&langs_count=6&text_color=02D9F7FF&title_color=02D9F7FF&bg_color=0d1117" />
 <!-- gif de la espada-->
-<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/main/assets/bonefire.gif" />
+<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/TanZng/TanZng/main/assets/bonefire.gif" />  
+
+<table>
+    <tr>
+        <td>
+            <!-- Estadísticas -->
+            <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=brianrscode&show_icons=true&theme=tokyonight" />
+        </td>
+        <td>
+            <!-- Contribuciones -->
+            <img alt="Github" src="https://streak-stats.demolab.com?user=brianrscode&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats" />
+        </td>
+    </tr>
+</table>
+
 <!-- Grafico de contribuciones -->
-<!-- https://github-readme-activity-graph.vercel.app/graph?username=brianrscode&theme=react-dark -->
+<img align="center" alt="Contribuciones" src="https://github-readme-activity-graph.vercel.app/graph?username=brianrscode&theme=react-dark"/>
 
 <!-- Separador con el gato -->
 <div align=center><img src=https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png></div>
