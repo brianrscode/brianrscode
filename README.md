@@ -1,6 +1,6 @@
 <!-- -->
 <!-- ----------------------------------- Presentación ----------------------------------- -->
-<h1 align="center"><b>Hola, soy <strong>brianrscode</strong></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center"><b>Hola, soy brianrscode</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <!-- ----------------------------------- Texto cambiante ----------------------------------- -->
 <p align="center">
@@ -21,14 +21,13 @@
 - Análisis de datos. 📊📈
 - Visión por computadora. 💻👀📷
 - Linux. 🐧
-<!-- - Seguridad informática. 🔒 -->
 
 <!-- ## 🛠 -------------------- Lenguajes-Herramientas -------------------- -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Lenguajes, librerías y Herramientas</b>
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,cpp,lua&titles=true" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,numpy,django,pandas&titles=true" /><br> <!-- fastapi -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,matplotlib,numpy,django,pandas&titles=true" /><br> <!-- flask -->
     <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arduino" />
   </a>
 </p>
