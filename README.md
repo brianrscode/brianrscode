@@ -17,10 +17,10 @@
 <!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdrdG9mNWt4a2poMjNjdzd0YWdyeHdvdnMyaGNvMzR1anlycjF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/q5F3zuDqWHwmj9PS01/giphy.gif -->
 <!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ6aW14cnhmMGl6aGh0cWZjb3RmMHhza2NqcXNiMG11OGxiY3lmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eOCsTp2GWETGDF8fsQ/giphy.gif -->
 ## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd4bnl2dnB6emc0bW9yNnV4bWs1enNraGNzaDRjYjRic2p5M2NkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I2QJ34RPk7Ijn4US3B/giphy.gif" width=25px></picture> **Áreas de interés.**
-- Desarrollo web. 💻
-- Análisis de datos. 📊📈
-- Visión por computadora. 💻👀📷
-- Linux. 🐧
+- Desarrollo web 💻
+- Análisis de datos 📊📈
+- Visión por computadora 💻👀📷
+- Linux 🐧
 
 <!-- ## 🛠 -------------------- Lenguajes-Herramientas -------------------- -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Lenguajes, librerías y Herramientas</b>
