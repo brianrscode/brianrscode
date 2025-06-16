@@ -4,12 +4,12 @@
 
 <!-- ----------------------------------- Texto cambiante ----------------------------------- -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fanático+de+la+tecnología+❤;++;Siempre+listo+para+aprender👀;++;Explorando+nuevas+tecnologías🤖;++;Apasionado+por+la+programación🐍"></a>
-  <!-- &hearts -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fanático+de+la+tecnología+❤;++;Siempre+listo+para+aprender👀;++;Apasionado+por+la+programación🐍"></a>
+  <!-- &hearts ++;Explorando+nuevas+tecnologías🤖; -->
 </p>
 
-<!-- ----------------------------------- Sobre mí ----------------------------------- -->
-## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTEyNGJ1OHlsMWljazZ0YjRubHpicTBkMmc1MjF6M2FvOWNwbmthNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width=35px></picture> **Sobre mí. 😀**
+<!-- ----------------------------------- Sobre mí ----------------------------------- 😀 -->
+## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTEyNGJ1OHlsMWljazZ0YjRubHpicTBkMmc1MjF6M2FvOWNwbmthNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width=35px></picture> **Sobre mí.**
 <p>Actualmente me concentro en mejorar mis habilidades en programación. Aunque no tengo experiencia laboral formal, he participado en diversos proyectos académicos y personales, los cuales demuestran mi capacidad de aprender y adaptarme rápidamente a nuevas tecnologías.</p>
 <br>
 
@@ -27,8 +27,8 @@
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,lua,bash&titles=true" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,opencv,matplotlib,numpy,pandas&titles=true" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arduino" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,opencv,numpy,pandas&titles=true" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim" />
   </a>
 </p>
 
