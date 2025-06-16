@@ -1,6 +1,8 @@
 <!-- -->
 <!-- ----------------------------------- Presentación ----------------------------------- -->
-<h1 align="center"><b>Hola, soy brianrscode</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+[![César Álvarez](https://github.com/brianrscode/brianrscode/blob/main/banner1_github.png)](https://brianrscode.github.io/brian.dev/)
+
+<!-- <h1 align="center"><b>Hola, soy brianrscode</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1> -->
 
 <!-- ----------------------------------- Texto cambiante ----------------------------------- -->
 <p align="center">
@@ -23,11 +25,11 @@
 - Linux 🐧
 
 <!-- ## 🛠 -------------------- Lenguajes Librerías y Herramientas -------------------- -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Stack</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"><b> Tecnologías</b>
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,lua,bash&titles=true" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,opencv,numpy,pandas&titles=true" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,opencv,numpy&titles=true" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim" />
   </a>
 </p>
