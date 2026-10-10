@@ -36,7 +36,7 @@ Me interesa construir software práctico, entender cómo funcionan las herramien
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,postgresql,mysql,mssql&titles=true" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,postgresql,mysql&titles=true" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim" />
   </a>
 </p>
